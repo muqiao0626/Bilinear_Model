@@ -1,4 +1,4 @@
-# BilinearModel
+# Bilinear_Model
 
 This repository hosts the implementation and applications of a bilinear model designed for analyzing neuronal gene expression and connectivity data. The work supports the findings presented in:
 

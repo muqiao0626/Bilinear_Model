@@ -1,0 +1,27 @@
+﻿Goetz et al. (2022) Type,Bae et al. (2018) Eyewire type,Tran et al. (2019) Cluster
+ON sus alpha,8w,C43
+OFFhOS,2aw,C9
+OFFvOS,2aw,C5
+ON tr SmRF,6sn,C30
+OFF tr alpha,4ow,C45
+OFF tr SmRF,4i,C21
+ONhOS SmRF,82wi,C27
+ONhOS LgRF,82n/wo,C36
+ONvOS SmRF,72,C38
+"ON DS sus DN, T, V",7iv/r/d,C10
+OODS D,37v,C16
+OODS T,37r,C24
+HD1,5si,C13
+HD2,5so,C6
+UHD,5ti,C2
+LED,51,C11
+F-mini-ON,63,C3
+ON delayed,73,C14
+ON bursty,3i,C18
+bSbC,2o,C25
+sSbC EW27,27,C26
+M2,9w,C31
+OFF sus alpha,1wt,C42
+OODS N,37c,C12
+F-mini-OFF,2an,C4
+ON tr alpha,6sw,C41

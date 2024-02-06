@@ -1,0 +1,45 @@
+source,term_name,term_id,adjusted_p_value,negative_log10_of_adjusted_p_value,intersection_size
+BC latent dimension 1,,,,,
+GO:BP,modulation of chemical synaptic transmission,GO:0050804,0.000440326,3.356225943,9
+GO:BP,regulation of trans-synaptic signaling,GO:0099177,0.000445672,3.350984411,9
+GO:BP,synaptic signaling,GO:0099536,0.000504129,3.297458188,10
+GO:BP,nervous system development,GO:0007399,0.000591482,3.228058577,15
+GO:BP,neuron differentiation,GO:0030182,0.000776891,3.109639802,12
+GO:BP,generation of neurons,GO:0048699,0.001293397,2.888268313,12
+GO:BP,cell-cell adhesion via plasma-membrane adhesion molecules,GO:0098742,0.003255938,2.487323916,6
+GO:BP,chemical synaptic transmission,GO:0007268,0.003529887,2.452239161,9
+GO:BP,anterograde trans-synaptic signaling,GO:0098916,0.003529887,2.452239161,9
+GO:BP,trans-synaptic signaling,GO:0099537,0.003763337,2.424426837,9
+BC latent dimension 2,,,,,
+GO:BP,neuron differentiation,GO:0030182,1.07E-08,7.96988294,17
+GO:BP,generation of neurons,GO:0048699,2.28E-08,7.641179715,17
+GO:BP,neuron development,GO:0048666,9.30E-08,7.031296961,15
+GO:BP,neurogenesis,GO:0022008,1.98E-07,6.703544094,17
+GO:BP,neuron projection development,GO:0031175,2.18E-07,6.661879674,14
+GO:BP,cell adhesion,GO:0007155,7.00E-07,6.155108587,15
+GO:CC,synaptic membrane,GO:0097060,6.20E-06,5.207501284,9
+GO:CC,cell periphery,GO:0071944,8.75E-06,5.058073567,27
+GO:CC,plasma membrane,GO:0005886,1.07E-05,4.96917222,26
+GO:BP,nervous system development,GO:0007399,2.36E-05,4.627948988,17
+RGC latent dimension 1,,,,,
+GO:BP,system development,GO:0048731,1.14E-05,4.942839683,21
+GO:BP,nervous system development,GO:0007399,1.53E-05,4.81464184,17
+GO:BP,anatomical structure development,GO:0048856,1.67E-05,4.776133234,25
+GO:CC,synapse,GO:0045202,3.22E-05,4.492713363,13
+GO:CC,somatodendritic compartment,GO:0036477,3.61E-05,4.441996022,11
+GO:BP,multicellular organism development,GO:0007275,3.76E-05,4.424316581,22
+GO:CC,synaptic membrane,GO:0097060,4.90E-05,4.309391105,8
+GO:CC,postsynaptic membrane,GO:0045211,5.92E-05,4.227766956,7
+GO:BP,neurogenesis,GO:0022008,0.000126449,3.898085391,14
+GO:BP,developmental process,GO:0032502,0.000135356,3.868521875,25
+RGC latent dimension 2,,,,,
+GO:BP,neuron projection development,GO:0031175,0.00289625,2.53816354,10
+GO:BP,nervous system development,GO:0007399,0.00563224,2.24931918,14
+GO:BP,neuron projection morphogenesis,GO:0048812,0.0067497,2.1707154,8
+GO:BP,neurogenesis,GO:0022008,0.00734347,2.13409856,12
+GO:BP,plasma membrane bounded cell projection morphogenesis,GO:0120039,0.00789142,2.10284504,8
+GO:BP,neuron differentiation,GO:0030182,0.00817177,2.08768416,11
+GO:BP,cell projection morphogenesis,GO:0048858,0.008392,2.07613476,8
+GO:BP,neuron development,GO:0048666,0.00937721,2.02792649,10
+GO:CC,synaptic membrane,GO:0097060,0.00944134,2.02496646,6
+GO:BP,cell part morphogenesis,GO:0032990,0.01143062,1.94193035,8
