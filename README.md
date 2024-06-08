@@ -2,7 +2,7 @@
 
 This repository hosts the implementation and applications of a bilinear model designed for analyzing neuronal gene expression and connectivity data. The work supports the findings presented in:
 
-Qiao, M. (2023+). Deciphering the Genetic Code of Neuronal Type Connectivity: A Bilinear Modeling Approach.
+Qiao, M. (2023+) Deciphering the Genetic Code of Neuronal Type Connectivity Through Bilinear Modeling. eLife.
 
 ## Overview
 Leveraging concepts from recommendation systems, the bilinear model projects gene expressions of presynaptic and postsynaptic neuronal types into a shared latent space. This process reconstructs a cross-correlation matrix that closely approximates the neuronal connectivity matrix, bridging single-cell sequencing data with connectomic data of neuronal types to unravel the genetic underpinnings of specific connectivities.
@@ -49,7 +49,7 @@ Additional Python libraries as required by individual applications (refer to the
 ## Citation
 Please cite the following manuscript if you use the bilinear model in your research:
 
-Qiao, M. (2023+). Deciphering the Genetic Code of Neuronal Type Connectivity: A Bilinear Modeling Approach. Biorxiv. https://www.biorxiv.org/content/10.1101/2023.08.01.551532
+Qiao, M. (2023+) Deciphering the Genetic Code of Neuronal Type Connectivity Through Bilinear Modeling. eLife.
 
 ## References:
 1. Bae, JA., et al. (2018). Digital Museum of Retinal Ganglion Cells with Dense Anatomy and Physiology. Cell, 173(5):1293–1306.e19.
